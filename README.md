@@ -8,8 +8,8 @@ O repositório está organizado por Distrito > Concelho
 
 ### Distrito do Porto
 
-- Porto
+- Concelho do Porto
 
 ### Distrito de Braga
 
-- Braga
+- Concelho de Braga
