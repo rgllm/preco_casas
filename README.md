@@ -6,10 +6,14 @@ O repositório está organizado por Distrito > Concelho
 
 ## Dados atuais
 
+### Distrito de Braga
+
+- Concelho de Braga
+
 ### Distrito do Porto
 
 - Concelho do Porto
 
-### Distrito de Braga
+### Distrito de Lisboa
 
-- Concelho de Braga
+- Concelho de Lisboa
