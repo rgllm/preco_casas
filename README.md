@@ -14,6 +14,7 @@ O repositório está organizado por Distrito > Concelho
 
 - Concelho do Porto
 - Concelho de Matosinhos
+- Concelho de Vila Nova de Gaia
 
 ### Distrito de Lisboa
 
